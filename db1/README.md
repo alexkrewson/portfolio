@@ -1,8 +1,8 @@
 <h1>db1</h1>
 
- <img src="computer.jpg" alt="computer" width="500" height="600"> 
 
-<!-- <img src="/home/alex/Documents/Odin/code/portfolio/db1/app/assets/images/computer.jpg" alt="computer" width="500" height="600">  -->
+![computer-image](https://raw.githubusercontent.com/alexkrewson/portfolio/main/db1/app/assets/images/computer.jpeg)
+
 
 
 <p>This app will provide a personalized dashboard that will display a user's weather, daily tasks, upcoming calendar events, and allow for quick and simple journal entries. Information of ever day's weather, tasks, events, and journal enries will be saved and accessivle to the viewer.</p>
