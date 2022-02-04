@@ -37,3 +37,9 @@
 
 # Ignore Spring files.
 /fb/spring/*.pid
+
+
+
+/weather/node_modules
+
+/todo/node_modules
