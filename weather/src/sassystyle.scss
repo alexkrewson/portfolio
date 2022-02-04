@@ -1,0 +1,136 @@
+// * {
+//     margin: 0 0 0 0;
+//     color: rgb(24, 21, 21);
+//     background-color: maroon;
+// }
+
+// button {
+//     // height: 20px;
+//     // width: 50px;
+//     margin-bottom: 20px;
+
+// }
+
+// input {
+//     width: 100px;
+//     margin-top: 20px;
+//     background-color: honeydew;
+// }
+
+// label {
+//     margin-bottom: 20px;
+// }
+
+// #container {
+//     margin-top: 20px;
+//     margin-bottom: 20px;
+
+//     display: flex;
+//     flex-direction: column;
+//     align-items: center;
+//     justify-content: center;
+// }
+
+// #h2Text {
+//     margin-bottom: 20px;
+// }
+
+body {
+    background-color: black;
+
+}
+
+.stContainer {
+    background-color: black;
+    height: 500px;
+    width: 50%;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    // border-style: solid;
+    border-color: white;
+    overflow: hidden;
+
+}
+
+.stOrange {
+    border-top-left-radius: 80%;
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    // display: inline;
+
+}
+
+.stOrange2 {
+    background-color: orange;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    left: 100px;
+    top: -100px;
+    // display: inline;
+
+
+}
+
+.stBlack {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    // margin-top: 25px;
+    position: relative;
+    top: -165px;
+}
+
+
+.stRow {
+    background-color: #d45e0f;
+    width: 75px;
+    height: 50px;
+    // margin-top: 25px;
+    position: relative;
+    top: -245px;
+    left: 14px;
+}   
+
+.stLowRowContainer {
+    margin-top: 2px;
+    width: 600px;
+    height: 100px;
+    position: relative;
+    top: -245px;
+    left: 14px;
+    overflow: hidden;
+}
+
+.stLowRow {
+    border-bottom-left-radius: 10%;
+    background-color: #89dbff;
+    width: 600px;
+    height: 600px;
+    // margin-top: 25px;
+    position: relative;
+    top: -500px;
+    // left: 14px;
+}
+
+.stLowRowBlack {
+    border-bottom-left-radius: 10%;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -364px;
+    left: 89px;
+}
+
+
+.stLowRowBlack2 {
+    background-color: black;
+    width: 500px;
+    height: 100px;
+    position: relative;
+    top: -464px;
+    left: 164px;
+}
